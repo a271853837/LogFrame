@@ -1,0 +1,10 @@
+G:\Git\LogFrame\LogFrame\LogFrame\bin\Debug\LogFrame.exe.config
+G:\Git\LogFrame\LogFrame\LogFrame\bin\Debug\LogFrame.exe
+G:\Git\LogFrame\LogFrame\LogFrame\bin\Debug\LogFrame.pdb
+G:\Git\LogFrame\LogFrame\LogFrame\bin\Debug\log4net.dll
+G:\Git\LogFrame\LogFrame\LogFrame\bin\Debug\log4net.xml
+G:\Git\LogFrame\LogFrame\LogFrame\obj\Debug\LogFrame.csprojAssemblyReference.cache
+G:\Git\LogFrame\LogFrame\LogFrame\obj\Debug\LogFrame.csproj.CoreCompileInputs.cache
+G:\Git\LogFrame\LogFrame\LogFrame\obj\Debug\LogFrame.csproj.CopyComplete
+G:\Git\LogFrame\LogFrame\LogFrame\obj\Debug\LogFrame.exe
+G:\Git\LogFrame\LogFrame\LogFrame\obj\Debug\LogFrame.pdb

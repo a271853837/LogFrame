@@ -1,0 +1,2 @@
+[Header] 2018-12-13 11:16:52,169 [1] INFO  testApp.Logging [(null)]  - 2018/12/13 11:16:52: login success
+[Header] 2018-12-13 13:42:42,228 [1] INFO  testApp.Logging [(null)]  - 123
